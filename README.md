@@ -59,3 +59,9 @@ Ikuti langkah-langkah berikut untuk menjalankan project di lokal Anda:
   ```php
   $config['base_url'] = 'http://localhost/spk-wisata-moora';
   ```
+
+  ### ℹ️ Catatan Database
+
+  Jika Anda membutuhkan file database, silakan hubungi melalui Instagram: **ronaldlehot** atau email: **ronaldlehot@gmail.com**.
+
+  GRATISSSSS!!!!
