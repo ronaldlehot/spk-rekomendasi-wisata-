@@ -62,6 +62,6 @@ Ikuti langkah-langkah berikut untuk menjalankan project di lokal Anda:
 
   ### ℹ️ Catatan Database
 
-  Jika Anda membutuhkan file database, silakan hubungi melalui Instagram: **ronaldlehot** atau email: **ronaldlehot@gmail.com**.
+  Jika Anda membutuhkan file database, silakan hubungi melalui Instagram: **[ronaldlehot](https://www.instagram.com/ronaldlehot/?hl=id)** atau email: **ronaldlehot@gmail.com**.
 
   GRATISSSSS!!!!
